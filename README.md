@@ -1,2 +1,2 @@
 # hello
-can not in put chinese ?
+测试！
